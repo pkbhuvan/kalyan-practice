@@ -1,0 +1,5 @@
+order_id,order_date,customer_id,product,category,quantity,unit_price,region,line_total
+1001,2026-01-02,C001,Laptop,Electronics,1,1200.00,NORTH,1200.00
+1002,2026-01-02,C002,Wireless Mouse,Accessories,2,25.50,SOUTH,51.00
+1003,2026-01-03,C001,Usb-C Hub,Electronics,1,49.99,NORTH,49.99
+1004,2026-01-03,C003,Office Chair,Furniture,1,189.99,WEST,189.99

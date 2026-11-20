@@ -1,0 +1,9 @@
+order_id,order_date,customer_id,product,category,quantity,unit_price,region
+1001,2026-01-02,C001, laptop , electronics ,1,1200,north
+1002,01/02/2026, C002 ,wireless mouse,accessories,2,25.50,SOUTH
+1003,2026-01-03,C001,USB-C hub,electronics,1,49.99,North
+1004,2026/01/03,C003,office chair,furniture,1,189.99,west
+1002,2026-01-02,C002,wireless mouse,accessories,2,25.50,south
+,2026-01-04,C004,notebook,stationery,3,4.50,east
+1005,2026-01-04,C004,notebook,stationery,-2,4.50,east
+1006,not-a-date,C005,desk lamp,furniture,1,35.00,west
