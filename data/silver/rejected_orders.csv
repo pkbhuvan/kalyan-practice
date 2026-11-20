@@ -1,0 +1,5 @@
+source_row,reason,raw_record
+6,duplicate order_id,"{""category"": ""accessories"", ""customer_id"": ""C002"", ""order_date"": ""2026-01-02"", ""order_id"": ""1002"", ""product"": ""wireless mouse"", ""quantity"": ""2"", ""region"": ""south"", ""unit_price"": ""25.50""}"
+7,required text field is empty,"{""category"": ""stationery"", ""customer_id"": ""C004"", ""order_date"": ""2026-01-04"", ""order_id"": """", ""product"": ""notebook"", ""quantity"": ""3"", ""region"": ""east"", ""unit_price"": ""4.50""}"
+8,quantity must be greater than zero,"{""category"": ""stationery"", ""customer_id"": ""C004"", ""order_date"": ""2026-01-04"", ""order_id"": ""1005"", ""product"": ""notebook"", ""quantity"": ""-2"", ""region"": ""east"", ""unit_price"": ""4.50""}"
+9,"order_date must be YYYY-MM-DD, MM/DD/YYYY, or YYYY/MM/DD","{""category"": ""furniture"", ""customer_id"": ""C005"", ""order_date"": ""not-a-date"", ""order_id"": ""1006"", ""product"": ""desk lamp"", ""quantity"": ""1"", ""region"": ""west"", ""unit_price"": ""35.00""}"
